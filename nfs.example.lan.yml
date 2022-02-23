@@ -5,4 +5,5 @@ classes:
     exports:
       - /srv/share1
       - /srv/share3
-parameters:
+parameters: 
+      -
